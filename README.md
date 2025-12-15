@@ -2,21 +2,21 @@
   <img src="https://img.shields.io/badge/Bootcamp-TripleTen-blue?style=flat-square" alt="TripleTen Badge" />
 </p>
 
-<h1 align="center">Projeto Sprint 9</h1>
+<h1 align="center">Hypothesis Prioritization for Revenue Growth</h1>
 
 <p align="center">
-Notebook desenvolvido durante o Bootcamp <strong>TripleTen</strong>.
+Notebook developed during the <strong>TripleTen</strong> Bootcamp. 
 </p>
 
 ---
 
-## 📄 Descrição
-Este notebook realiza a **preparação**,**análise**,**testes**, **tratamento** e **hipóteses** de dados utilizando Python, Pandas, Matplotlib, Numpy, Math e Datetime.
-O objetivo é priorizar hipóteses que podem ajudar a aumentar a receita.
+## 📄 Description
+This notebook performs **preparation**, **analysis**, **testing**, **treatment**, and **hypothesis** of data using Python, Pandas, Matplotlib, Numpy, Math, and Datetime.
+The goal is to prioritize hypotheses that can help increase revenue.
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 - Python 3.11.9
 - Jupyter Notebook 
 - Pandas
@@ -28,12 +28,11 @@ O objetivo é priorizar hipóteses que podem ajudar a aumentar a receita.
 
 ---
 
-## 🚀 Como usar
-1. Abra o arquivo `Sprint9.ipynb` no **Jupyter Notebook**.
-2. Execute as células em ordem.
-3. Visualize os resultados do tratamento de dados.
+## 🚀 How to use
+1. Open the `Sprint9.ipynb` file in **Jupyter Notebook**.
+2. Run the cells in order.
+3. View the results of the data processing.
 
 ---
-
-## ⚡ Licença
-Este projeto está sob a licença **MIT**.
+## ⚡ License
+This project is licensed under the **MIT** license.
